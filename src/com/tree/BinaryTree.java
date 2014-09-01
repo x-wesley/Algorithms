@@ -15,7 +15,7 @@ public class BinaryTree {
     public Node getRoot() {   
         return root;   
     }   
-  
+    //test
     /** 构造树 */  
     public static Node init() {   
         Node a = new Node('A');   
