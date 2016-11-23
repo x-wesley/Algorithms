@@ -17,7 +17,7 @@ public class ReverList {
 			prev = node;
 			node = next;
 		}
-		return head;
+		return revHead;
 	}
 }
 
